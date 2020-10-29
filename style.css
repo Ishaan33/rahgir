@@ -10,6 +10,11 @@ body{
     height: auto;
     background-color: #fff;
     margin: auto;
+    overflow: hidden;
+}
+hr{
+    max-width: 1600px;
+    width: 100%;
 }
 header{
     height: 120px;
@@ -334,7 +339,7 @@ section > .aim > img{
     text-decoration: none;
     color: #ff6000;
     font-size: 2em;
-    padding: 250px;
+    padding: 200px;
 }
 .contact_blocks .location{
     max-width: 1600px;
@@ -342,6 +347,11 @@ section > .aim > img{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     margin: auto;
+}
+.map{
+    margin: auto;
+    max-width: 1800px;
+    width: 100%;
 }
 /* Latest Updates */
 .update_blocks{
