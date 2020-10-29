@@ -356,7 +356,8 @@ section > .aim > img{
     overflow: hidden;
 }
 hr{
-   width: 1600px;
+   max-width: 1600px;
+   width: 100%
 }
 .update_blocks .updates img{
     width: 450px;
